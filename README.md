@@ -3,6 +3,8 @@ paintboard
 
 HTML5 webcam and redfilter detection
 
+Demo on: [http://sandbox.antobase.com/paintboard/](http://sandbox.antobase.com/paintboard/)
+
 ## Where I got the webcam initialization from
 
 [https://github.com/samdutton/simpl](https://github.com/samdutton/simpl)
